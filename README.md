@@ -1,2 +1,2 @@
 # lernings
-leran angular 17 features
+learan angular 17 features
