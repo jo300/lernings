@@ -1,0 +1,7 @@
+.paragraph-container {
+  width: 300px;
+  border: 1px solid #fdfdfd;
+  padding: 10px;
+  word-wrap: break-word; /* Old name, still supported */
+  overflow-wrap: break-word; /* Standard name */
+}/*# sourceMappingURL=app.component.css.map */
